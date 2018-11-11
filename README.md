@@ -1,2 +1,2 @@
 # pythondice
-simple commented python script to walk beginner through how a dice roller can be made
+Simple python script showing how a basic dice rolling program can be made, with comments intended to be easily interpretable by beginners.
